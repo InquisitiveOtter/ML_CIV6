@@ -1,0 +1,5 @@
+numpy==1.21.2
+pip==21.2.4
+pygame==2.0.1
+setuptools==57.4.0
+wheel==0.37.0
